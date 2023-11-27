@@ -1,0 +1,16 @@
+#app { 
+    max-width: 300px; 
+    margin: 50px auto; 
+    font-family: Arial, sans-serif; 
+} 
+
+button { 
+    margin-top: 5px; 
+} 
+
+.expensive { 
+    color: red; 
+    } 
+    .cheap { 
+    color: green; 
+    }
